@@ -1,9 +1,19 @@
-## Olá eu sou João Pedro, Programador e tecnologia!
+## Hi! I'm João Pedro 🖐🏼
+
+I'm a 16-year-old programming worshipper from Brazil, and I seek to devote myself more and more in my profession.
+- 💻 Junior Web Developer
+
+
+<br>
+
 <div align="center">
   <a href="https://github.com/JoaoPedroBispo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroBispo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroBispo&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+ <br> 
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
