@@ -22,8 +22,7 @@ I'm a 16-year-old programming worshipper from Brazil, and I seek to devote mysel
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://instagram.fbau3-1.fna.fbcdn.net/v/t51.2885-19/202412382_233031771698544_1176923238246877863_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbau3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=yVFtVXzz99YAX-1tNMd&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8IBjMSKHasF9qZotPIlkWk4HzOAmd_wzm7AwODYyDnSg&oe=63225E59&_nc_sid=8fd12bwidth=676&height=676">
-</div>
+  
 
   ## 📱 &nbsp;Social Links | Contact
 <div>
