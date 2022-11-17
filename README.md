@@ -7,8 +7,8 @@ I'm a 16-year-old programming worshipper from Brazil, and I seek to devote mysel
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Richard-Rodrigues8&show_icons=true&count_private=true&hide_border=true&title_color=b50000&icon_color=800000&text_color=fff&bg_color=0d1117" alt="Richard Rodrigues github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Rodrigues8&layout=compact&hide_border=true&title_color=b50000&text_color=fff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Bispo8&show_icons=true&count_private=true&hide_border=true&title_color=b50000&icon_color=800000&text_color=fff&bg_color=0d1117" alt="Joao Pedro Bispo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Bispo8&layout=compact&hide_border=true&title_color=b50000&text_color=fff&bg_color=0d1117" />
 </div>
   
 <br> 
