@@ -1,7 +1,6 @@
-## Hi! I'm João Pedro 🖐🏼
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=red&height=150&section=header"/>
 
-I'm a 16-year-old programming worshipper from Brazil, and I seek to devote myself more and more in my profession.
-- 💻 Junior Web Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi+,my++name+is+João+Pedr+=Bispo;I'm+16+years+old;I+from+Brasil,+SP;I+study+development+systems+at+Etec+City=Book;Be+Welcome!+😊)](https://git.io/typing-svg)
 
 
 <br>
