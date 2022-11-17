@@ -64,7 +64,9 @@
   <img align="center" alt="Joao-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="Joao-MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
- 
+  
+    
+  
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E6E6E&height=120&section=footer"/>
  
 </div>
