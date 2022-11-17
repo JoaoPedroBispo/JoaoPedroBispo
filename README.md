@@ -6,10 +6,9 @@ I'm a 16-year-old programming worshipper from Brazil, and I seek to devote mysel
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/JoaoPedroBispo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroBispo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroBispo&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Richard-Rodrigues8&show_icons=true&count_private=true&hide_border=true&title_color=b50000&icon_color=800000&text_color=fff&bg_color=0d1117" alt="Richard Rodrigues github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Rodrigues8&layout=compact&hide_border=true&title_color=b50000&text_color=dark_color=dark" />
 </div>
   
  <br> 
