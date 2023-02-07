@@ -29,8 +29,18 @@
 </div>
 
 <br>
+  
+  ## 🏆 &nbsp;Hobbies  
+<div style="display: inline-block;">
+  <img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</div>
 
-## 📚 &nbsp;Learning :
+<br>
+
+## 📚 &nbsp;Learning 
 <div style="display: inline-block;">
   <img align="center" alt="Joao-ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)" />
   <img align="center" alt="Joao-TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -41,16 +51,7 @@
   
 <br>
   
-## 🏆 &nbsp;Hobbies : 
-<div style="display: inline-block;">
-  <img align="center" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</div>
 
-<br>
 
 ## 🛠 &nbsp;Technologies
 <div style="display: inline-block;">
